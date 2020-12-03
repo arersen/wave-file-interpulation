@@ -3,3 +3,8 @@
 The WAV file should be in the project folder, after which you should name the file in the console. </li>
 <li>
 Audio file must be in WAV format only </li>
+# Functions
+<li> 
+The program can speed up or slow down the WAV file </li>
+<h2> 
+First, you need to specify the name of the file, and then using the keyword you can speed up or slow it down:</h2>
