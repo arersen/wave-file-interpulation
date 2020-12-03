@@ -9,3 +9,7 @@ The program can speed up or slow down the WAV file </li>
 <h3> 
 First, you need to specify the name of the file, and then using the keyword you can speed up or slow it down:</h3>
 <span> filename.wav </span>
+<li> x2</li>
+<li> x1</li>
+<li> x0.75</li>
+<li> x0.5</li>
