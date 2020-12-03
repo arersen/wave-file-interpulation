@@ -114,7 +114,7 @@ private:
 		auto* values = new double[size];
 		for (auto i = 0; i < size; ++i) {
 			auto value = matrix[i][i];
-			if (value == 0) {
+			 if (value == 0) {
 				auto local = i + 1;
 				while (value == 0) {
 					value = matrix[local++][i];
