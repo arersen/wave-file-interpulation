@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Дмитрий\Lab4\Lab4\Source.cpp(72,1): warning C4244: *=: преобразование "const double" в "int32_t", возможна потеря данных
+C:\Users\Дмитрий\Lab4\Lab4\Source.cpp(223,44): warning C4244: =: преобразование "double" в "int16_t", возможна потеря данных
+  Lab4.vcxproj -> C:\Users\Дмитрий\Lab4\Lab4\Debug\Lab4.exe
